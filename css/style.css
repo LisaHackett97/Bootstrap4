@@ -56,8 +56,15 @@ body {
 
 
 .quotes-container{}
+
 .features-container{}
-.favourites-container{}
+.favourites-container{
+    /* background-color: #444; */
+    /* color: #f05f40; */
+    text-align: center;
+    padding-top: 32px;
+        
+}
 
 /* page Headers */
 
